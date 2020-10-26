@@ -1,0 +1,10 @@
+[package]
+name = "rust-server"
+version = "0.1.0"
+authors = ["ad101-lab <55064247+ad101-lab@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.5"
